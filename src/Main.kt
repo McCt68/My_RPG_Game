@@ -3,6 +3,9 @@ fun main() {
 
     createAdventurer()
 
+    // git test 1
+
+
     //creating a charecter object
 //    var valentin = Character("Valentin", 52)
 //
